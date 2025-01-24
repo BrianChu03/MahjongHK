@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+/Users/brianchu/MahjongHK/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule
