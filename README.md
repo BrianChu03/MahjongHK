@@ -1,4 +1,4 @@
-HK Style Mahjong game
+# HK Style Mahjong game
 
 This project is a Mahjong game that includes different types of Mahjong tiles and their properties. It defines various tile categories, such as suits, honors, and bonus tiles, to be used within the game. The project serves as the foundation for implementing tile-based logic in Mahjong gameplay.
 
